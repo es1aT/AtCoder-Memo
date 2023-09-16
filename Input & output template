@@ -1,3 +1,6 @@
+import sys 
+input = sys.stdin.readline.strip() #入力の高速化に使用。
+
 N = int(input()) #標準入力から整数を読み込み、Nに代入。
 A = [int(input()) for _ in range(N)] #N回の標準入力から整数を読み込み、リストAに格納。
 A, B = map(int, input().split()) #標準入力から空白区切りの整数を読み込み、A, Bに代入。
