@@ -7,4 +7,21 @@ def prime(x):
             return "No"
     return "Yes"
 
-#
+#フィボナッチ数列（Java)
+class Main {
+  public static void main(String[] args) {
+    int a = 0, b = 1, flag = 0;
+    System.out.printf("%d %d ", a, b);
+    while(a + b < 10000) {
+      if(flag % 2 == 0) {
+        a += b;
+        System.out.printf("%d ", a);
+      }
+      else {
+        b += a;
+        System.out.printf("%d ", b);
+      }
+      flag++;
+    }
+  }
+}
