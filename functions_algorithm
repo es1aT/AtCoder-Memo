@@ -6,6 +6,18 @@ def prime(x):  #素数探索
             print("No")
     print("Yes")
 
+def binary_search(arr, target):  #二分探索法
+  left, right = 0, len(arr) - 1
+  while left <= right:
+    mid = (left + right) // 2
+    if arr[mid] == target:
+        return mid
+    elif arr[mid] < target:
+        left = mid + 1
+    elif arr[mid] < target:
+        right = mid - 1
+  return -1
+
 def bubble(A):  #バブルソート
     for i in range(len(A) - 1):
         for j in range(len(A)-1-i):
