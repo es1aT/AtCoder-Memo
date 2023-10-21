@@ -33,6 +33,18 @@ def fib(n):  #フィボナッチ数列（nまで空白区切りで出力）
       a, b = b, a + b
       print(b, end=" ")
 
+stack = []  #スタック
+stack.append('a')
+stack.append('b')
+print(stack.pop())
+
+from collections import deque  #キュー
+queue = deque()
+queue.append('a')
+queue.append('b')
+print(queue.popleft())
+
+
 def prefix_sum(li, L, R):  #累積和
     B = [0] * (len(li) + 1)
     for i in range(len(li)):
