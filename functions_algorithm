@@ -50,3 +50,8 @@ def prefix_sum(li, L, R):  #累積和
     for i in range(len(li)):
         B[i + 1] = B[i] + li[i]
     return B[R] - B[L - 1]
+
+def gcd(a, b):  #ユークリッドの互除法
+    while b != 0:
+        a, b = b, a % b
+    return a
