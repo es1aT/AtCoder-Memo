@@ -1,7 +1,7 @@
 def convert(num_str, n, m): #n進数をm進数に変換する
     decimal = int(num_str, n) #10進数に変換
     if decimal == 0:
-        return 0
+        return "0" #元が0なら"0"を返す
     else:
         digits = []
         while decimal > 0:
