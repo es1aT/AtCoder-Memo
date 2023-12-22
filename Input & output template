@@ -9,6 +9,6 @@ A, B = map(int, input().split()) #標準入力から空白区切りの整数を�
 N, M = map(int, input().split())
 s = [["."]*(M+2) for i in range(N+2)]
 for i in range(1, N+1):
-  s[i][1:N+2] = list(input())
+  s[i][1:M+1] = list(input())
 for i in range(N+2):
   print(s[i])
