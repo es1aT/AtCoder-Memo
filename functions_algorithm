@@ -51,6 +51,12 @@ def prefix_sum(li, L, R):  #累積和
         B[i + 1] = B[i] + li[i]
     return B[R] - B[L - 1]
 
+N = int(input()) #隣接リストのテンプレ
+graph = [[] for _ in range(N)]
+for _ in range(N-1):
+  u, v = map(int, input().split())
+  graph[u-1].append(v-1)
+  graph[v-1].append(u-1)
 def gcd(a, b):  #ユークリッドの互除法
     while b != 0:
         a, b = b, a % b
