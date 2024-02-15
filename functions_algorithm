@@ -62,3 +62,9 @@ def gcd(a, b):  #ユークリッドの互除法
     while b != 0:
         a, b = b, a % b
     return a
+
+def fib(n):  #フィボナッチ数列
+    if n == 0 or n == 1:
+        return n
+    else:
+        return fib(n - 2) + fib(n - 1)
