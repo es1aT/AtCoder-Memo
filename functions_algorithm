@@ -68,3 +68,18 @@ def fib(n):  #フィボナッチ数列
         return n
     else:
         return fib(n - 2) + fib(n - 1)
+
+class TreeNode:　# 木構造の作成
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+def make_tree(tree, i=0):
+    if i < len(tree) and tree[i] is not None:
+        node = TreeNode(tree[i])
+        node.left = make_tree(tree, 2 * i + 1)
+        node.right = make_tree(tree, 2 * i + 2)
+        return node
+    return None
+root = make_tree([1, 2, 3, 4, 5, 6, 7])
+print(root.left.left.val, root.left.right.val, root.right.right.val)
