@@ -83,3 +83,32 @@ def make_tree(tree, i=0):
     return None
 root = make_tree([1, 2, 3, 4, 5, 6, 7])
 print(root.left.left.val, root.left.right.val, root.right.right.val)
+
+from collections import deque
+
+# ノード数 N と、グラフの隣接リスト E を定義
+N = 7
+li = [
+    [1, 2],       # ノード 0 の隣接ノード
+    [0, 3, 4],    # ノード 1 の隣接ノード
+    [0, 5, 6],    # ノード 2 の隣接ノード
+    [1],          # ノード 3 の隣接ノード
+    [1],          # ノード 4 の隣接ノード
+    [2],          # ノード 5 の隣接ノード
+    [2]           # ノード 6 の隣接ノード
+]
+
+# 開始ノード S
+S = 0
+
+visited = [False]*N
+
+Q = deque([S])
+visited[S] = True
+
+while len(Q) > 0:
+  i = Q.popleft()
+  for j in li[i]:
+    if visited[j] == False:
+      visited[j] = True
+      Q.append(j)
