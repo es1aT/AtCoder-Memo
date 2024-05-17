@@ -85,7 +85,6 @@ root = make_tree([1, 2, 3, 4, 5, 6, 7])
 print(root.left.left.val, root.left.right.val, root.right.right.val)
 
 from collections import deque
-
 # ノード数 N と、グラフの隣接リスト E を定義
 N = 7
 li = [
