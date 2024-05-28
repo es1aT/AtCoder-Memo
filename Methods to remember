@@ -7,4 +7,4 @@ def convert(num, n, m): # n進数をm進数に変換する（全て数字で入�
         while decimal > 0:
             digits.append(str(decimal % m))
             decimal //= m
-        return "".join(reversed(digits)) # n進数を文字列で返す
+        return "".join(reversed(digits)) # 結果を文字列で返す
