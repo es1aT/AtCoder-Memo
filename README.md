@@ -1,14 +1,14 @@
 # AtCoder 問題備忘録
 
-このリポジトリは、AtCoderで解いた問題とその解答、解説を記録するための備忘録です。
+このリポジトリは、AtCoderで解いた問題とその解答、説明を記録するための備忘録です。
 
 ## 問題一覧
 
-| No.  | 題名 | 問題リンク | 解答コード | 解説 | 解答日 |
+| No.  | 題名 | 問題リンク | 解答コード | 説明 | 解答日 |
 | ---- | ---- | ---------- | ---------- | ---- | ------ |
-| abc368_a | Cut | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc368_a.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/25 |
-| tenkei_A | 二分探索の練習問題 | [問題を見る](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei_A.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/26 |
-| arc017_a | 素数、コンテスト、素数 | [問題を見る](https://atcoder.jp/contests/arc017/tasks/arc017_1) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/arc017_a.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/26 |
+| abc368_a | Cut | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc368_a.py) | [説明を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/25 |
+| tenkei_A | 二分探索の練習問題 | [問題を見る](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei_A.py) | [説明を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/26 |
+| arc017_a | 素数、コンテスト、素数 | [問題を見る](https://atcoder.jp/contests/arc017/tasks/arc017_1) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/arc017_a.py) | [説明を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/26 |
 
 ## リソース
 
