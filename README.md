@@ -8,10 +8,11 @@
 | ---- | ---- | ---------- | ---------- | ---- | ------ |
 | abc368_a | Cut | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc368_a.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/25 |
 | tenkei_A | 二分探索の練習問題 | [問題を見る](https://atcoder.jp/contests/typical-algorithm/tasks/typical_algorithm_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei_A.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/26 |
+| arc017_a | 素数、コンテスト、素数 | [問題を見る](https://atcoder.jp/contests/arc017/tasks/arc017_1) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/arc017_a.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/26 |
 
 ## リソース
 
-- [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/): AtCoderの全ての問題が一覧になっており、難易度が分かりやすいように分けられているサイトです。解いた問題やチャレンジするべき問題を確認できます。
+- [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)： AtCoderの全ての問題が一覧になっており、難易度が分かりやすいように分けられているサイトです。解いた問題やチャレンジするべき問題を確認できます。
 
 
 
