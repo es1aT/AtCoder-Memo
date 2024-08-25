@@ -25,14 +25,6 @@ def bubble(A):  #バブルソート
                 A[j], A[j+1] = A[j+1], A[j]
     return A
 
-def fib(n):  #フィボナッチ数列（nまで空白区切りで出力）
-    a, b = 0, 1
-    print(a, b, end=" ")
-    
-    while a + b < n:
-      a, b = b, a + b
-      print(b, end=" ")
-
 stack = []  #スタック
 stack.append('a')
 stack.append('b')
@@ -63,11 +55,18 @@ def gcd(a, b):  #ユークリッドの互除法
         a, b = b, a % b
     return a
 
-def fib(n):  #フィボナッチ数列
+def fib(n):  #フィボナッチ数列（再帰型、直感的だが低効率）
     if n == 0 or n == 1:
         return n
     else:
         return fib(n - 2) + fib(n - 1)
+
+def fib(n):  #フィボナッチ数列（反復型、抽象的だが高効率）
+    a, b = 0, 1
+    print(a, b, end=" ")
+    while a + b < n:
+      a, b = b, a + b
+      print(b, end=" ")
 
 class TreeNode:　# 木構造の作成
     def __init__(self, val=0, left=None, right=None):
@@ -99,12 +98,9 @@ li = [
 
 # 開始ノード S
 S = 0
-
 visited = [False]*N
-
 Q = deque([S])
 visited[S] = True
-
 while len(Q) > 0:
   i = Q.popleft()
   for j in li[i]:
