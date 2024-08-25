@@ -4,6 +4,7 @@ def prime(x):  #素数探索
     for i in range(2, int(x ** 0.5) + 1):
         if x % i == 0:
             print("No")
+            exit()
     print("Yes")
 
 def binary_search(arr, target):  #二分探索法
