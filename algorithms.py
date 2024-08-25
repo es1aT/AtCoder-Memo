@@ -1,11 +1,10 @@
 def prime(x):  #素数探索
     if x < 2:  # 2より小さい数値は素数ではない
-        print("No")
+        return "No"
     for i in range(2, int(x ** 0.5) + 1):
         if x % i == 0:
-            print("No")
-            exit()
-    print("Yes")
+            return "No"
+    return "Yes"
 
 def binary_search(arr, target):  #二分探索法
   left, right = 0, len(arr) - 1
