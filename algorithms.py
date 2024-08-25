@@ -63,10 +63,11 @@ def fib(n):  #フィボナッチ数列（再帰型、直感的だが低効率）
 
 def fib(n):  #フィボナッチ数列（反復型、抽象的だが高効率）
     a, b = 0, 1
-    print(a, b, end=" ")
-    while a + b < n:
-      a, b = b, a + b
-      print(b, end=" ")
+    if n == 0:
+        return a
+    for _ in range(2, n + 1):
+        a, b = b, a + b
+    return b
 
 class TreeNode:　# 木構造の作成
     def __init__(self, val=0, left=None, right=None):
