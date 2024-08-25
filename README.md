@@ -6,7 +6,7 @@
 
 | No.  | 問題リンク | 解答コード | 解説 | 解答日 |
 | ---- | ---------- | ---------- | ---- | ------ |
-| 368_a | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/atcoder/blob/main/368_a.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/25 |
+| 368_a | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/atcoder/blob/main/Solved-Problems/368_a.py) | [解説を見る](https://github.com/es1aT/atcoder/issues/1) | 2024/08/25 |
 
 ## リソース
 
