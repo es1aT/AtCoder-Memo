@@ -14,7 +14,7 @@
 | tenkei90_010 | Score Sum Queries (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_j) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_010.py) | 2024/08/26 | 累積和 |
 | tenkei90_022 | Cubic Cake (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_v) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_022.py) | 2024/08/26 | ユークリッドの互除法 |
 | tenkei90_024 | Select +／- One (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_x) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_024.py) | 2024/08/26 | 偶奇性 |
-| tenkei90_027 | Sign Up Requests (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_aa) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_027.py) | 2024/08/26 | 辞書 |
+| tenkei90_027 | Sign Up Requests (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_aa) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_027.py) | 2024/08/26 | set型、辞書 |
 | tenkei90_033 | Not Too Bright (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ag) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_033.py) | 2024/08/26 | コーナーケース |
 | tenkei90_055 | Select 5 (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bc) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_055.py) | 2024/08/26 | 実行時間の推測 |
 
