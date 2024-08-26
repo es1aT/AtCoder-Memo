@@ -16,6 +16,7 @@
 | tenkei90_024 | Select +／- One (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_x) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_024.py) | 2024/08/26 | 偶奇性 |
 | tenkei90_027 | Sign Up Requests (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_aa) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_027.py) | 2024/08/26 | 辞書 |
 | tenkei90_033 | Not Too Bright (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ag) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_033.py) | 2024/08/26 | コーナーケース |
+| tenkei90_033 | Not Too Bright (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bc) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_055.py) | 2024/08/26 | 実行時間の推測 |
 
 ## 参考リンク
 
