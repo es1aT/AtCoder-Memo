@@ -1,3 +1,5 @@
+# 各行と各列の和を先に計算し、包除原理を用いる。
+
 H, W = map(int, input().split())
 A = []
 B = [[0]*W for _ in range(H)]
