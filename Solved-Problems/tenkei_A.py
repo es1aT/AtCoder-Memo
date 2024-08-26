@@ -12,3 +12,5 @@ if left == N:
   print(-1)
 else:
   print(left)
+
+//典型的な二分探索問題
