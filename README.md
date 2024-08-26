@@ -11,6 +11,7 @@
 | arc017_a | 素数、コンテスト、素数 | [問題を見る](https://atcoder.jp/contests/arc017/tasks/arc017_1) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/arc017_a.py) | [説明を見る](https://github.com/es1aT/AtCoder-Memo/issues/1) | 2024/08/26 |
 | tenkei90_004 | Cross Sum (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_d) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_004.py) | [説明を見る](https://github.com/es1aT/AtCoder-Memo/issues/4) | 2024/08/26 |
 | tenkei90_010 | Score Sum Queries (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_j) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_010.py) | [説明を見る](https://github.com/es1aT/AtCoder-Memo/issues/5) | 2024/08/26 |
+| tenkei90_022 | Cubic Cake (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_v) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_022.py) | [説明を見る](https://github.com/es1aT/AtCoder-Memo/issues/6) | 2024/08/26 |
 
 
 ## リソース
