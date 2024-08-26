@@ -15,6 +15,7 @@
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)： AtCoderの全ての問題が一覧になっており、難易度が分かりやすいように分けられているサイトです。解いた問題やチャレンジするべき問題を確認できます。
 
+- [競プロ典型90問](https://atcoder.jp/contests/typical90)： A
 
 
 今後、新しい問題を解いた際は、上記の形式で記録を追加していきます。
