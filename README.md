@@ -1,3 +1,8 @@
+# AtCoder 問題備忘録
+
+このリポジトリは、AtCoderで解いた問題とその解答を記録するための備忘録です。
+
+
 ## 問題一覧
 
 | No.  | 題名 | 問題リンク | 解答コード | 解答日 | 前提知識 |
@@ -10,3 +15,9 @@
 | tenkei90_022 | Cubic Cake (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_v) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_022.py) | 2024/08/26 | ユークリッドの互除法 |
 | tenkei90_024 | Select +／- One (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_x) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_024.py) | 2024/08/26 | - |
 | tenkei90_027 | Sign Up Requests (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_aa) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_027.py) | 2024/08/26 | 辞書 |
+
+
+## 参考リンク
+
+- [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)： AtCoderの全ての問題が一覧になっており、難易度が分かりやすいように分けられているサイトです。解いた問題やチャレンジするべき問題を確認できます。
+- [競プロ典型90問](https://atcoder.jp/contests/typical90)： AtCoderの典型問題90問がまとめられています。
