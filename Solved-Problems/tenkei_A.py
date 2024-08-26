@@ -13,4 +13,4 @@ if left == N:
 else:
   print(left)
 
-//典型的な二分探索問題
+# 典型的な二分探索問題
