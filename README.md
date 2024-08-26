@@ -17,6 +17,7 @@
 | tenkei90_027 | Sign Up Requests (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_aa) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_027.py) | 2024/08/26 | set型、辞書 |
 | tenkei90_033 | Not Too Bright (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ag) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_033.py) | 2024/08/26 | コーナーケース |
 | tenkei90_055 | Select 5 (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bc) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_055.py) | 2024/08/26 | 実行時間の推測 |
+| tenkei90_067 | Base 8 to 9 (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bo) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_067.py) | 2024/08/27 | N進法展開 |
 
 ## 参考リンク
 
