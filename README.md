@@ -26,6 +26,7 @@
 | tenkei90_020 | Log Inequality (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_t) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_020.py) | 2024/08/27 | 浮動小数点の誤差 |
 | tenkei90_032 | AtCoder Ekiden (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_af) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_032.py) | 2024/08/27 | 順列全探索 |
 | tenkei90_038 | Large LCM (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_al) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_038.py) | 2024/08/27 | オーバーフロー |
+| tenkei90_044 | Shift and Swapping (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ar) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_044.py) | 2024/08/27 | 見かけ上の順序 |
 
 ## 参考リンク
 
