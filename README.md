@@ -23,6 +23,7 @@
 | tenkei90_014 | We Used to Sing a Song Together (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_n) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_014.py) | 2024/08/27 | 貪欲法 |
 | tenkei90_016 | Minimum Coins (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_p) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_016.py) | 2024/08/27 | 工夫した全探索 |
 | tenkei90_018 | Statue of Chokudai (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_r) | （？） | 2024/08/27 | 三角関数 |
+| tenkei90_020 | Log Inequality (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_t) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_020.py) | 2024/08/27 | 浮動小数点の誤差 |
 
 ## 参考リンク
 
