@@ -25,6 +25,7 @@
 | tenkei90_018 | Statue of Chokudai (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_r) | （？） | 2024/08/27 | 三角関数 |
 | tenkei90_020 | Log Inequality (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_t) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_020.py) | 2024/08/27 | 浮動小数点の誤差 |
 | tenkei90_032 | AtCoder Ekiden (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_af) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_032.py) | 2024/08/27 | 順列全探索 |
+| tenkei90_038 | Large LCM (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_al) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_038.py) | 2024/08/27 | オーバーフロー |
 
 ## 参考リンク
 
