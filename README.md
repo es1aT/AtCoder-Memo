@@ -29,6 +29,7 @@
 | tenkei90_044 | Shift and Swapping (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ar) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_044.py) | 2024/08/27 | 見かけ上の順序 |
 | tenkei90_046 | I Love 46 (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_at) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_046.py) | 2024/08/27 | グループ化 |
 | tenkei90_048 | I will not drop out (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_av) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_048.py) | 2024/08/27 | 貪欲法 |
+| tenkei90_50 | Stair Jump (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | （？） | 2024/08/27 | - |
 
 ## 参考リンク
 
