@@ -1,6 +1,5 @@
 # 因数分解を行って、先に足し算する。
 N = int(input())
-A = []
 cnt = 1
 for i in range(N):
   cnt *= sum(list(map(int, input().split())))
