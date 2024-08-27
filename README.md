@@ -20,6 +20,7 @@
 | tenkei90_067 | Base 8 to 9 (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bo) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_067.py) | 2024/08/27 | N進法展開 |
 | tenkei90_078 | Easy Graph Problem (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bz) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_078.py) | 2024/08/27 | 隣接リスト |
 | tenkei90_002 | Encyclopedia of Parentheses (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_b) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_002.py) | 2024/08/27 | bit全探索 |
+| tenkei90_007 | CP Classes (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_g) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_007.py) | 2024/08/27 | 二分探索 |
 
 ## 参考リンク
 
