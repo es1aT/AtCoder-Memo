@@ -21,6 +21,7 @@
 | tenkei90_078 | Easy Graph Problem (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bz) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_078.py) | 2024/08/27 | 隣接リスト |
 | tenkei90_002 | Encyclopedia of Parentheses (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_b) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_002.py) | 2024/08/27 | bit全探索 |
 | tenkei90_007 | CP Classes (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_g) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_007.py) | 2024/08/27 | 二分探索 |
+| tenkei90_014 | We Used to Sing a Song Together (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_n) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_014.py) | 2024/08/27 | 貪欲法 |
 
 ## 参考リンク
 
