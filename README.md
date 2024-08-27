@@ -30,6 +30,7 @@
 | tenkei90_046 | I Love 46 (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_at) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_046.py) | 2024/08/27 | グループ化 |
 | tenkei90_048 | I will not drop out (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_av) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_048.py) | 2024/08/27 | 貪欲法 |
 | tenkei90_50 | Stair Jump (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | （？） | 2024/08/27 | - |
+| tenkei90_52 | Dice Product (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_az) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_052.py) | 2024/08/27 | 因数分解 |
 
 ## 参考リンク
 
