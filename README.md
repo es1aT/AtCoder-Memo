@@ -34,7 +34,7 @@
 | tenkei90_064 | Uplift (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bl) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_064.py) | 2024/08/28 | 階差 |
 | tenkei90_069 | Colorful Blocks 2 (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bq) | - | - | - |
 | tenkei90_075 | Magic For Balls (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bw) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_075.py) | 2024/08/28 | 素因数分解 |
-| tenkei90_076 | Cake Cut (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bx) | - | - | - |
+| tenkei90_076 | Cake Cut (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bx) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_076.py) | 2024/08/28 | しゃくとり法 |
 | tenkei90_079 | Two by Two (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ca) | - | - | - |
 | tenkei90_082 | Counting Numbers (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_cd) | - | - | - |
 | tenkei90_084 | There are two types of characters (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_cf) | - | - | - |
