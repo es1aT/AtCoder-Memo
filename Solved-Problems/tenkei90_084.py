@@ -21,6 +21,7 @@ for i in li:
   ans += su * i
 print(ans)
 
+
 # しゃくとり法でも解けた。
 N = int(input())
 S = list(input())
