@@ -22,17 +22,17 @@
 | tenkei90_007 | CP Classes (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_g) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_007.py) | 2024/08/27 | 二分探索 |
 | tenkei90_014 | We Used to Sing a Song Together (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_n) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_014.py) | 2024/08/27 | 貪欲法 |
 | tenkei90_016 | Minimum Coins (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_p) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_016.py) | 2024/08/27 | 工夫した全探索 |
-| tenkei90_018 | Statue of Chokudai (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_r) | unsolved﻿ | 2024/08/27 | 三角関数 |
+| tenkei90_018 | Statue of Chokudai (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_r) | unsolved﻿ | - | 三角関数 |
 | tenkei90_020 | Log Inequality (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_t) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_020.py) | 2024/08/27 | 浮動小数点の誤差 |
 | tenkei90_032 | AtCoder Ekiden (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_af) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_032.py) | 2024/08/27 | 順列全探索 |
 | tenkei90_038 | Large LCM (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_al) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_038.py) | 2024/08/27 | オーバーフロー |
 | tenkei90_044 | Shift and Swapping (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ar) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_044.py) | 2024/08/27 | 見かけ上の順序 |
 | tenkei90_046 | I Love 46 (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_at) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_046.py) | 2024/08/27 | グループ化 |
 | tenkei90_048 | I will not drop out (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_av) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_048.py) | 2024/08/27 | 貪欲法 |
-| tenkei90_050 | Stair Jump (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | unsolved﻿ | 2024/08/27 | - |
+| tenkei90_050 | Stair Jump (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | unsolved﻿ | - | - |
 | tenkei90_052 | Dice Product (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_az) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_052.py) | 2024/08/27 | 因数分解 |
 | tenkei90_064 | Uplift (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bl) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_064.py) | 2024/08/28 | 階差 |
-| tenkei90_069 | Colorful Blocks 2 (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bq) | - | - | - |
+| tenkei90_069 | Colorful Blocks 2 (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bq) | unsolved | - | - |
 | tenkei90_075 | Magic For Balls (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bw) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_075.py) | 2024/08/28 | 素因数分解 |
 | tenkei90_076 | Cake Cut (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bx) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_076.py) | 2024/08/28 | しゃくとり法 |
 | tenkei90_079 | Two by Two (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ca) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_079.py) | 2024/08/28 | 操作順序 |
