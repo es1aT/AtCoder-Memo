@@ -4,14 +4,14 @@
 
 ## 問題一覧
 
-### ABC, ARCシリーズ
+### ABC, ARCなどの問題
 
 | No.  | 題名 | 問題リンク | 解答コード | 解答日 | キーワード |
 | ---- | ---- | ---------- | ---------- | ------ | -------- |
 | abc368_a | Cut | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc368_a.py) | 2024/08/25 | スライス操作 |
 | arc017_a | 素数、コンテスト、素数 | [問題を見る](https://atcoder.jp/contests/arc017/tasks/arc017_1) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/arc017_a.py) | 2024/08/26 | 素数判定 |
 
-### 競プロ典型90問シリーズ
+### 「競プロ典型90問」シリーズ
 
 | No.  | 題名 | 問題リンク | 解答コード | 解答日 | キーワード |
 | ---- | ---- | ---------- | ---------- | ------ | -------- |
@@ -45,7 +45,10 @@
 | tenkei90_082 | Counting Numbers (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_cd) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_082.py) | 2024/08/29 | 等差数列の和 |
 | tenkei90_084 | There are two types of characters (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_cf) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_084.py) | 2024/08/29 | ランレングス圧縮 |
 
+### 「凡人が『緑』になるための精選50問」シリーズ
+
 ## 参考リンク
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)： AtCoderの全ての問題が一覧になっており、難易度が分かりやすいように分けられているサイトです。解いた問題やチャレンジするべき問題を確認できます。
 - [競プロ典型90問](https://atcoder.jp/contests/typical90)： AtCoderの典型問題90問がまとめられています。
+- [AtCoder　凡人が『緑』になるための精選50問詳細解説](https://www.amazon.co.jp/AtCoder-%E5%87%A1%E4%BA%BA%E3%81%8C%E3%80%8E%E7%B7%91%E3%80%8F%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E7%B2%BE%E9%81%B850%E5%95%8F%E8%A9%B3%E7%B4%B0%E8%A7%A3%E8%AA%AC-%E4%BD%90%E9%87%8E-sano192-ebook/dp/B09C3TPQYV)：AtCoderで「緑」ランクを目指すために厳選された50問とその解説がまとめられています。
