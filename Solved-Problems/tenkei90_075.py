@@ -1,18 +1,21 @@
 # Nを素因数分解して、何回分割できるか計算する。
+def pri_fac(N, li):
+    while N % 2 == 0:
+        li.append(2)
+        N //= 2
+    f = 3
+    while f * f <= N:
+        if N % f == 0:
+            li.append(f)
+            N //= f
+        else:
+            f += 2
+    if N != 1:
+        li.append(N)
+
 N = int(input())
 li = []
-while N % 2 == 0:
-  li.append(2)
-  N //= 2
-f = 3
-while f * f <= N:
-    if N % f == 0:
-        li.append(f)
-        N //= f
-    else:
-        f += 2
-if N != 1:
-    li.append(N)
+pri_fac(N, li)
 
 if len(li) == 1:
   print(0)
