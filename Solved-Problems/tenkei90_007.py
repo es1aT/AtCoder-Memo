@@ -1,17 +1,22 @@
-#二分探索して、生徒のレーティングに最も近いクラスを探す。
+# 二分探索して、生徒のレーティングに最も近いクラスを探す。
 
-N = int(input()) # クラス数
-A = sorted(list(map(int, input().split()))) # クラスの推奨レーティング
-Q = int(input()) # 生徒数
-for i in range(Q): # 生徒のレーティング
+# 入力値を取得
+N = int(input())
+A = sorted(list(map(int, input().split())))
+Q = int(input())
+
+# 各生徒のレーティングに対して最も近いクラスを探す。
+for i in range(Q):
   B = int(input())
   left, right = 0, N-1
-  while left <= right:
+  while left <= right: # 二分探索
     mid = (left + right) // 2
     if A[mid] >= B:
       right = mid - 1
     else:
       left = mid + 1
+
+  # 最も近いクラスのレーティングを出力
   if left == N:
       print(abs(A[left-1] - B))
   elif left == 0:
