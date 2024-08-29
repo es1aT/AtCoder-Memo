@@ -7,7 +7,7 @@ if want % 1 != 0:
   exit()
 A += A
 
-head, tail, cnt = 0, 0, 0
+tail, cnt = 0, 0
 for head in range(N*2):
   cnt += A[head]
   while cnt > want:
