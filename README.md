@@ -37,7 +37,7 @@
 | tenkei90_076 | Cake Cut (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_bx) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_076.py) | 2024/08/28 | しゃくとり法 |
 | tenkei90_079 | Two by Two (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_ca) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_079.py) | 2024/08/28 | 操作順序 |
 | tenkei90_082 | Counting Numbers (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_cd) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_082.py) | 2024/08/29 | 等差数列の和 |
-| tenkei90_084 | There are two types of characters (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_cf) | - | - | - |
+| tenkei90_084 | There are two types of characters (★3) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_cf) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_084.py) | 2024/08/29 | - |
 
 ## 参考リンク
 
