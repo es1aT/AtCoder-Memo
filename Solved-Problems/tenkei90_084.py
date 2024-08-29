@@ -1,5 +1,5 @@
 # ランレングス圧縮を行うことで、O(N)で解ける。
-def сжатие():
+def сomp():
   li = []
   cnt = 1
   for i in range(1, N):
@@ -13,7 +13,7 @@ def сжатие():
 
 N = int(input())
 S = list(input())
-li = сжатие()
+li = сomp()
 
 su, ans = sum(li), 0
 for i in li:
