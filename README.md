@@ -48,7 +48,7 @@
 ### 「凡人が『緑』になるための精選50問」シリーズ
 | No.  | 題名 | 難易度 | 問題リンク | 解答コード | 解答日 | キーワード |
 | ---- | ---- | ----- | --------- | --------- | ------ | --------- |
-| tenkei90_004 | Cross Sum (★2) | [問題を見る](https://atcoder.jp/contests/typical90/tasks/typical90_d) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/tenkei90_004.py) | 2024/08/26 | 包除原理 |
+
 
 ## 参考リンク
 
