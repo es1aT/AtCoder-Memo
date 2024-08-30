@@ -49,7 +49,7 @@
 | No.  | 題名 | 難易度 | 問題リンク | 解答コード | 解答日 | キーワード |
 | ---- | ---- | ----- | --------- | --------- | ------ | --------- |
 | abc201_a | Do you know the second highest mountain? | 32 | [問題を見る](https://atcoder.jp/contests/abc201/tasks/abc201_b) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc201_b.py) | 2024/08/31 | ペアのソート |
-
+| abc170_c | Cream puff | 142 | [問題を見る](https://atcoder.jp/contests/abc180/tasks/abc180_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc180_c.py) | 2024/08/31 | 約数列挙 |
 
 ## 参考リンク
 
