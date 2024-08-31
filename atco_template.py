@@ -23,10 +23,13 @@
 # 二分探索、累積和、素数判定、素因数分解など
 # def binary_search(arr, x):  # 二分探索の関数
 #     ...
+# def convert(num, n, m):  # n進数をm進数に変換
+#     decimal = int(str(num), n)
+#     if decimal == 0:
+#         return "0"
+#     result = ""
+#     while decimal > 0:
+#         result = str(decimal % m) + result
+#         decimal //= m
+#     return result
 
-# クラス ----------------------------------------------------------------------
-# もし特定のデータ構造やアルゴリズムをクラスで実装する場合は、ここにクラスを定義します。
-# 例:
-# class UnionFind:
-#     def __init__(self, n):
-#         ...
