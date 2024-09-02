@@ -51,7 +51,7 @@
 | abc201_a | Do you know the second highest mountain? | 32 | [問題を見る](https://atcoder.jp/contests/abc201/tasks/abc201_b) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc201_b.py) | 2024/08/31 | ペアのソート |
 | abc170_c | Cream puff | 142 | [問題を見る](https://atcoder.jp/contests/abc180/tasks/abc180_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc180_c.py) | 2024/08/31 | 約数列挙 |
 | abc195_b | Many Oranges | 483 | [問題を見る](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc195_b.py) | 2024/09/02 | 全探索 |
-| abc189_c | Mandarin Orange | 565 | [問題を見る](https://atcoder.jp/contests/abc195/tasks/abc189_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc189_c.py) | 2024/09/02 | PyPy |
+| abc189_c | Mandarin Orange | 565 | [問題を見る](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc189_c.py) | 2024/09/02 | PyPy |
 
 ## 参考リンク
 
