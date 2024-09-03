@@ -54,6 +54,11 @@
 | abc189_c | Mandarin Orange | 565 | [問題を見る](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc189_c.py) | 2024/09/02 | PyPy |
 | abc167_c | Skill Up | 595 | [問題を見る](https://atcoder.jp/contests/abc167/tasks/abc167_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc167_c.py) | 2024/09/03 | bit全探索 |
 
+### 「Educational DP Contest」シリーズ
+| No.  | 題名 | 問題リンク | 解答コード | 解答日 | キーワード |
+| ---- | ---- | --------- | --------- | ------ | --------- |
+| dp_a | Frog 1 | [問題を見る](https://atcoder.jp/contests/dp/tasks/dp_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/dp_a.py) | 2024/09/03 | 動的計画法 |
+
 ## 参考リンク
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)： AtCoderの全ての問題が一覧になっており、難易度が分かりやすいように分けられているサイトです。解いた問題やチャレンジするべき問題を確認できます。
