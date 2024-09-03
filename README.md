@@ -53,6 +53,7 @@
 | abc195_b | Many Oranges | 483 | [問題を見る](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc195_b.py) | 2024/09/02 | 全探索 |
 | abc189_c | Mandarin Orange | 565 | [問題を見る](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc189_c.py) | 2024/09/02 | PyPy |
 | abc167_c | Skill Up | 595 | [問題を見る](https://atcoder.jp/contests/abc167/tasks/abc167_c) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc167_c.py) | 2024/09/03 | bit全探索 |
+| abc158_d | String Formation | 610 | [問題を見る](https://atcoder.jp/contests/abc158/tasks/abc158_d) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc158_d.py) | 2024/09/03 | deque |
 
 ### 「Educational DP Contest」シリーズ
 | No.  | 題名 | 問題リンク | 解答コード | 解答日 | キーワード |
