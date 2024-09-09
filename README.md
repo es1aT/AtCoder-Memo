@@ -59,6 +59,7 @@
 | No.  | 題名 | 問題リンク | 解答コード | 解答日 | キーワード |
 | ---- | ---- | --------- | --------- | ------ | --------- |
 | dp_a | Frog 1 | [問題を見る](https://atcoder.jp/contests/dp/tasks/dp_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/dp_a.py) | 2024/09/03 | 動的計画法 |
+| dp_b | Frog 2 | [問題を見る](https://atcoder.jp/contests/dp/tasks/dp_b) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/dp_b.py) | 2024/09/10 | 動的計画法 |
 
 ## 参考リンク
 
