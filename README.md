@@ -8,7 +8,7 @@
 
 | No.  | 題名 | 問題リンク | 解答コード | 解答日 | キーワード |
 | ---- | ---- | ---------- | ---------- | ------ | -------- |
-| abc368_a | Cut | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc368_a.py) | 2024/08/25 | スライス操作、ローテート |
+| abc368_a | Cut | [問題を見る](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/abc368_a.py) | 2024/08/25 | スライス操作、rotate |
 | arc017_a | 素数、コンテスト、素数 | [問題を見る](https://atcoder.jp/contests/arc017/tasks/arc017_1) | [コードを見る](https://github.com/es1aT/AtCoder-Memo/blob/main/Solved-Problems/arc017_a.py) | 2024/08/26 | 素数判定 |
 
 ### 「競プロ典型90問」シリーズ
