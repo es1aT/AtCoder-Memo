@@ -1,6 +1,6 @@
 """
 （１）スライスの基本構文を使って処理を行う。
-（２）collectionモジュールのdeque型にあるローテート機能を用いる。
+（２）collectionモジュールのdeque型にあるrotate機能を用いる。
 """
 # (1)
 N, K = map(int, input().split())
