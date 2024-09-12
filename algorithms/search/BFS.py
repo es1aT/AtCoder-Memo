@@ -5,7 +5,7 @@
 from collections import deque
 
 # 入力を受け取る
-H, W = map(int, input().split())
+H, W = map(int, input().split()) # 二次元配列の高さと幅
 sy, sx = map(int, input().split()) # スタートの座標
 gy, gx = map(int, input().split()) # ゴールの座標
 
