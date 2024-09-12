@@ -2,7 +2,6 @@
 二次元配列に特化した幅優先探索。
 「.」は未訪問、「*」は訪問済みを表す。「#」は壁を表す。
 """
-
 from collections import deque
 
 # 入力を受け取る
@@ -42,6 +41,10 @@ else: # whileがbreakされなかった（ゴールに到達できなかった�
 # for i in range(H):
 #     print(*A[i], sep="")
 
+"""
+グラフに特化した幅優先探索。
+未訪問か訪問済みかはvisitedリストで表す。
+"""
 from collections import deque
 
 # 入力を受け取る
@@ -64,8 +67,7 @@ for i in range(N-1):
 
 # 幅優先探索
 queue = deque([[X, 0]]) # キューの作成とスタートの座標の追加
-visited = set() # 訪問済みのノードを管理
-visited.add(X)
+visited = set([X]) # 訪問済みのノードを管理
 parent = {} # 親ノードを保存する辞書
 
 while queue: # キューに探索すべき座標がある間
