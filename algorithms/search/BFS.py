@@ -1,6 +1,6 @@
 """
 二次元配列に特化した幅優先探索。
-「.」は未訪問、「*」は訪問済みを表す。
+「.」は未訪問、「*」は訪問済みを表す。「#」は壁を表す。
 """
 
 from collections import deque
@@ -41,3 +41,49 @@ else: # whileがbreakされなかった（ゴールに到達できなかった�
 # # 実行結果を表示
 # for i in range(H):
 #     print(*A[i], sep="")
+
+from collections import deque
+
+# 入力を受け取る
+N, X, Y = map(int, input().split())
+graph = {}
+
+# グラフの作成
+for i in range(N-1):
+    a, b = map(int, input().split())
+    
+    # グラフに頂点番号を追加
+    if a not in graph:
+        graph[a] = []
+    if b not in graph:
+        graph[b] = []
+    
+    # 無向グラフであるため両方に追加
+    graph[a].append(b)
+    graph[b].append(a)
+
+# 幅優先探索
+queue = deque([[X, 0]]) # キューの作成とスタートの座標の追加
+visited = set() # 訪問済みのノードを管理
+visited.add(X)
+parent = {} # 親ノードを保存する辞書
+
+while queue: # キューに探索すべき座標がある間
+    node, dist = queue.popleft() # 現在のノードと移動距離を取得
+    
+    # ゴール判定
+    if node == Y:
+        path = [] # 経路を復元するためのリスト 
+        while node != X: # YからXまで親をたどる
+            path.append(node)
+            node = parent[node]
+        path.append(X)
+        print(*path[::-1], sep="\n")
+        break
+    
+    # 現在のノードの隣接ノードをチェック
+    for nbr in graph[node]:
+        if nbr not in visited:
+            visited.add(nbr)
+            queue.append([nbr, dist+1])
+            parent[nbr] = node # 親ノードを記録
