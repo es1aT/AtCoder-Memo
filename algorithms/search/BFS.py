@@ -11,19 +11,19 @@
 from collections import deque
 
 def bfs(li, S):
-  visited = [False]*len(li)
-  Q = deque([S])
+  visited = [False]*len(li) # ノードに訪問済みかを記録
+  queue = deque([S]) # 探索するノードを格納するキュー
   visited[S] = True
-  order = []
+  order = []　# 訪問順序を格納するリスト
 
-  while Q:
-    i = Q.popleft()
+  while queue: # キューにノードがある間
+    i = queue.popleft()
     order.append(i)
 
-    for j in li[i]:
-      if visited[j] == False:
-        visited[j] = True
-        Q.append(j)
+    for neighbor in li[i]:
+      if visited[neighbor] == False:
+        visited[neighbor] = True
+        queue.append(neighbor)
   return order
 
 
